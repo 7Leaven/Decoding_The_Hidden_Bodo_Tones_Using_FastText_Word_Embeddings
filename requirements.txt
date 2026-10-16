@@ -1,0 +1,6 @@
+# Use Python 3.10 for compatibility with the supplied model pickle.
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.1.3
+joblib==1.2.0
+openpyxl==3.1.2
